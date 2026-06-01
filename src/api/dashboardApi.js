@@ -1,6 +1,6 @@
 import api from '../services/axiosInstance';
 
-const BASE_URL = api.BASE_URL;
+const BASE_URL = api.baseURL;
 
 export const getDashboardData = async () => {
   const token = localStorage.getItem('token');
