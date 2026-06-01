@@ -1,5 +1,12 @@
 # React + Vite
 
+Run:
+
+```bash
+docker build -t inventary-ui . && docker run -p 3000:80 inventary-ui
+open  port: 3000
+```
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
