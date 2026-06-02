@@ -1,5 +1,6 @@
 # React + Vite
-
+ Login As Admin: admin@admin.com, master_otp: 123456 or details can be updated through seeder
+ 
 Run:
 
 ```bash
